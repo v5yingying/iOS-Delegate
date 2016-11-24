@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  DelegateDemo
+//
+//  Created by YY on 16/11/24.
+//  Copyright © 2016年 YY. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "ViewController.h"
+#import "ShareView.h"
+
+#endif /* PrefixHeader_pch */
